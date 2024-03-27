@@ -1,2 +1,2 @@
-# Paper-MA-202201-Declining-Business-Dynamism
-Python codes for solving the equilibrium of the model built in Paper Declining Business Dynamism
+# Working Paper (MA2022) Business Dynamism with Endogenous Markup
+Matlab codes for solving the equilibrium of the model
